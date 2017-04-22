@@ -5,7 +5,7 @@ void setup() {
 
 int i;
 void draw() {
-  background(255, 255, 255);
+  background(0, 0, 255);
   ellipse(i, height/2, 100, 100);
   i++;
 }
